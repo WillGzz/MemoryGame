@@ -73,4 +73,5 @@ h1 {
     color: #3498db;
     border: none;
     font-weight: 900;
+    cursor: pointer;
 }
